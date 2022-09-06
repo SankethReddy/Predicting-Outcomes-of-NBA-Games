@@ -21,3 +21,5 @@ There were 5 datasets in the Kaggle Site
  
 - teams.csv
   - Has data regarding the details of each team
+
+- The `Combining Datasets.ipynb` file combines all of the datasets and the result is a finalized dataset at an individual player level with data from all of the original datasets
