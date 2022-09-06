@@ -16,8 +16,8 @@ There were 5 datasets in the Kaggle Site
 - players.csv
   - Has data regarding the details of each player
  
- - ranking.csv
+- ranking.csv
   - Has data regarding the records/rankings of each team for every day
  
- - teams.csv
+- teams.csv
   - Has data regarding the details of each team
