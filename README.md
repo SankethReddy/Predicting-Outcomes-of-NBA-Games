@@ -23,3 +23,9 @@ There were 5 datasets in the Kaggle Site
   - Has data regarding the details of each team
 
 - The `Combining Datasets.ipynb` file combines all of the datasets and the result is a finalized dataset at an individual player level with data from all of the original datasets
+
+- The `Finalizing Dataset.ipynb` file groups the dataset created from the `Combining Datasets.ipynb` file at a game level, creates the metrics that will be used as input features into the Machine Learning models, and creates the `Dataset for ML Modeling.csv` file
+
+- The `EDA and ML Modeling.ipynb` file does exploratory data analysis on the `Dataset for ML Modeling.csv` file, creates some Machine Learning models, and performs hyperparameter tuning on these Machine Learning models
+
+- The  `Enhancing Random Forest Classification Model.ipynb` file enhances the Random Forest Classification model that will be used to predict the outcome of the NBA games
